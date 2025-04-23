@@ -8,9 +8,7 @@
 
 <br>
 
-<p align="center">  
-  <a href="https://pin.it/3RhJVoZMo">
-    <img alt="LAK-md" height="500" src="https://pin.it/3RhJVoZMo">
+
  
 
 <br>
