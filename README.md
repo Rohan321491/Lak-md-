@@ -7,15 +7,11 @@
 🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
- 
-  <p align="center">  
-  <a href="https://pin.it/28cDg1JqW">
-    <img alt="LAK-md" height="300" src="https://pin.it/28cDg1JqW">
-    
-  
- 
-</p>  
 
+<p align="center">  
+  <a href="https://pin.it/3RhJVoZMo">
+    <img alt="LAK-md" height="500" src="https://pin.it/3RhJVoZMo">
+ 
 
 <br>
 <br>
