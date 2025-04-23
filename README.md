@@ -9,8 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://pin.it/28cDg1JqW
-<br>">
+  <a href="https://pin.it/28cDg1JqW">
     <img alt="LAK-md" height="300" src="https://pin.it/28cDg1JqW">
     
   
