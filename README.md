@@ -9,18 +9,18 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="LAK-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://pin.it/28cDg1JqW
+<br>">
+    <img alt="LAK-md" height="300" src="https://pin.it/28cDg1JqW">
     
   
-  </a>
+ 
 </p>  
 
 
 <br>
 <br>
 
-💡 `This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using` **[https://pin.it/28cDg1JqW)**
 
 
 <br>
